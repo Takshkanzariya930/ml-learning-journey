@@ -1,0 +1,16 @@
+name: ml-env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.11
+  - matplotlib
+  - scipy
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: C:\Language\anaconda3\envs\ml-env
