@@ -47,7 +47,7 @@ Streaming TV: Indicates if the customer uses their Internet service to stream te
 
 Streaming Movies: Indicates if the customer uses their Internet service to stream movies from a third party provider: Yes, No. The company does not charge an additional fee for this service.
 
-Contract: Indicates the customer’s current contract type: Month-to-Month, One Year, Two Year.
+Contract: Indicates the customer’s current contract tyep: Month-to-Month, One Year, Two Year.
 
 Paperless Billing: Indicates if the customer has chosen paperless billing: Yes, No
 
