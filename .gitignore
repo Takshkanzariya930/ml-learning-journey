@@ -1,3 +1,5 @@
 .vscode/
 static/
 .ipynb_checkpoints/
+*.pt
+*.csv
