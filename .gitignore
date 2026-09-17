@@ -3,3 +3,5 @@ static/
 .ipynb_checkpoints/
 *.pt
 *.csv
+datasets/
+*.npy
